@@ -37,7 +37,7 @@ Joey worked extensively on instantiating the connection between the frontend and
 
 Zyler worked a great deal on the front end, especially the popup modal to modify assets. He many quality-of-life improvements.
 
-<!-- ![](/images/niece.jpg) --->
+![](/images/niece.jpg)
 
 <--->
 
@@ -53,7 +53,7 @@ Emma worked tirelessly on the fine details of the front end and developed all th
 - ### [Glossary](/documents/glossary.pdf)
 - ### [Vision and Scope](/documents/vision.pdf){:target="\_blank"}
 - ### [Use Cases](/documents/use_cases.pdf)
-- ### [Software Requierments Specification](/documents/software_requirements_specification.pdf)
+- ### [Software Requirements Specification](/documents/software_requirements_specification.pdf)
 
 ## Presentations
 - ### [December 2022](/documents/presentation_december2022.pdf)
