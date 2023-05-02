@@ -1,0 +1,4 @@
+baseURL = 'http://riogrande.cs.tcu.edu/'
+languageCode = 'en-us'
+title = 'CMSAMS'
+theme = 'hugo-book'
