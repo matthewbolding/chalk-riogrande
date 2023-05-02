@@ -35,13 +35,15 @@ Joey worked extensively on instantiating the connection between the frontend and
 
 ### Zyler Niece
 
+Zyler worked a great deal on the front end, especially the popup modal to modify assets. He many quality-of-life improvements.
 
+<!-- ![](/images/niece.jpg) --->
 
 <--->
 
 ### Emma Sanders
 
-Emma worked tirelessly on the fine details of the front end and developed much of the styling code for the mobile site.
+Emma worked tirelessly on the fine details of the front end and developed all the mobile site styling. She tended to many bugs.
 
 ![](/images/sanders.jpg)
 
