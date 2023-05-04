@@ -1,4 +1,4 @@
-baseURL = 'http://riogrande.cs.tcu.edu/'
+baseURL = 'http://riogrande.cs.tcu.edu/2223ChalkMountain/'
 languageCode = 'en-us'
 title = 'CMSAMS'
 theme = 'hugo-book'
