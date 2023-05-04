@@ -28,14 +28,14 @@ Matthew worked primarily on the backend database and created a number of the RES
 
 Joey worked extensively on instantiating the connection between the frontend and the LDAP server. He helped in all areas.
 
-![](/images/flores.jpg)
+![](/images/flores.png)
 
 {{< /columns >}}
 {{< columns >}}
 
 ### Zyler Niece
 
-Zyler worked a great deal on the front end, especially the popup modal to modify assets. He many quality-of-life improvements.
+Zyler worked a great deal on the front end, especially the popup modal to modify assets. He mademany quality-of-life improvements.
 
 ![](/images/niece.jpg)
 
@@ -43,7 +43,7 @@ Zyler worked a great deal on the front end, especially the popup modal to modify
 
 ### Emma Sanders
 
-Emma worked tirelessly on the fine details of the front end and developed all the mobile site styling. She tended to many bugs.
+Emma worked tirelessly on the fine details of the front end and developed all the mobile site styling. She tended to many bugs throughout.
 
 ![](/images/sanders.jpg)
 
@@ -51,13 +51,14 @@ Emma worked tirelessly on the fine details of the front end and developed all th
 
 ## Deliverables
 - ### [Glossary](/documents/glossary.pdf)
-- ### [Vision and Scope](/documents/vision.pdf){:target="\_blank"}
+- ### [Vision and Scope](/documents/vision.pdf)
 - ### [Use Cases](/documents/use_cases.pdf)
 - ### [Software Requirements Specification](/documents/software_requirements_specification.pdf)
+- ### [User and Developer's Manual](/documents/manual.pdf)
 
 ## Presentations
 - ### [December 2022](/documents/presentation_december2022.pdf)
-- ### [May 2023]()
+- ### [May 2023](/documents/presentation_may2023.pdf)
 
 ## SRS
 - ### [SRS Poster](/documents/srs_poster.pdf)
