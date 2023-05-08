@@ -55,8 +55,8 @@ Emma worked tirelessly on the fine details of the front end and developed all th
 - ### [Use Cases](/documents/use_cases.pdf)
 - ### [Software Requirements Specification](/documents/software_requirements_specification.pdf)
 - ### [User and Developer's Manual](/documents/manual.pdf)
-- ### [Iteration Planning](/documents/iteration_planning.pdf)
-- ### [Release Planning](/documents/release_planning.pdf)
+- ### [Iteration Plan](/documents/iteration_plan.pdf)
+- ### [Release Plan](/documents/release_plan.pdf)
 - ### [Test Cases](/documents/test_cases.pdf)
 
 ## Presentations
